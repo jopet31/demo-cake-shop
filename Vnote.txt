@@ -1,0 +1,6 @@
+1. Save the Data
+2. Generate the HTML
+3. Make it interactive
+
+12:16 - ID
+
